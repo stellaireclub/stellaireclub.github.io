@@ -1,0 +1,49 @@
+@media (max-width: 800px){
+
+header .texte h1{
+ font-size: 7vw;
+ text-align: center;
+ margin: 3px;
+ color: white;
+}
+header .texte h1 span{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header .texte p{
+    font-size: 5vw;
+    text-align: center;
+    color: white;
+}
+
+header .btn{
+    margin: auto;
+    width: fit-content;
+
+}
+
+header .btn button{
+    padding: 10px;
+    font-size: 6vw;
+    background-color: white;
+    border: none;
+}
+    .header{
+        width: 100%;
+        margin: 0px;
+        padding: 1px;
+    }
+
+    header .image{
+        height: 150px;
+        width: 150px;
+        margin:25px auto;
+    }
+
+    header .texte{
+        width: 90%;
+        margin: 5px;
+    }
+}
